@@ -1,2 +1,3 @@
-# markdown_toc
-Markdown TOC generator
+# markdown toc generator
+
+https://ecotrust-canada.github.io/markdown-toc/
